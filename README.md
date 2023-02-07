@@ -22,5 +22,6 @@ Button | Key Shortcut | Description
 '=' (Evaluate) | `<Return>` | Solves the entered input on display.     
 '.' (Decimal Period) | `<.>` | For Rational numbers. 
 '0-9' (Digits) | `<0><1>..<8><9>` | Numeric entry.  
-   
-    
+Random Button | `<Wiki> or <HPC> or <Walph> or <Vint> or <Super> or <Comic>` | Button that opens a webpage, related to math/calculators/computers.  
+
+<img width="383" alt="Screenshot 2023-02-07 at 11 45 54 pm" src="https://user-images.githubusercontent.com/112744049/217262629-46c432ed-8a3e-474b-b2f8-b6855d4b63fb.png">
